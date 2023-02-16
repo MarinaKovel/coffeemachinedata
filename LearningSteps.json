@@ -346,7 +346,7 @@
                 "buttonTwo": ""
             },
             "modalLeft": {
-                "text": "Choose the correct element for this step (press "M" for MODEL, "V" for VIEW or "C" for CONTROLLER):",
+                "text": "Choose the correct element for this step (press 'M' for MODEL, 'V' for VIEW or 'C' for CONTROLLER):",
                 "picture": "",
                 "buttonOne": "Next",
                 "buttonTwo": ""
@@ -372,7 +372,7 @@
                 "buttonTwo": ""
             },
             "modalLeft": {
-                "text": "Choose the correct element for this step (press "M" for MODEL, "V" for VIEW or "C" for CONTROLLER):",
+                "text": "Choose the correct element for this step (press 'M' for MODEL, 'V' for VIEW or 'C' for CONTROLLER):",
                 "picture": "",
                 "buttonOne": "Next",
                 "buttonTwo": ""
@@ -398,7 +398,7 @@
                 "buttonTwo": ""
             },
             "modalLeft": {
-                "text": "Choose the correct element for this step (press "M" for MODEL, "V" for VIEW or "C" for CONTROLLER):",
+                "text": "Choose the correct element for this step (press 'M' for MODEL, 'V' for VIEW or 'C' for CONTROLLER):",
                 "picture": "",
                 "buttonOne": "Next",
                 "buttonTwo": ""
@@ -424,7 +424,7 @@
                 "buttonTwo": ""
             },
             "modalLeft": {
-                "text": "Choose the correct element for this step (press "M" for MODEL, "V" for VIEW or "C" for CONTROLLER):",
+                "text": "Choose the correct element for this step (press 'M' for MODEL, 'V' for VIEW or 'C' for CONTROLLER):",
                 "picture": "",
                 "buttonOne": "Next",
                 "buttonTwo": ""
@@ -450,7 +450,7 @@
                 "buttonTwo": ""
             },
             "modalLeft": {
-                "text": "Choose the correct element for this step (press "M" for MODEL, "V" for VIEW or "C" for CONTROLLER):",
+                "text": "Choose the correct element for this step (press 'M' for MODEL, 'V' for VIEW or 'C' for CONTROLLER):",
                 "picture": "",
                 "buttonOne": "Next",
                 "buttonTwo": ""
